@@ -1,0 +1,4 @@
+{
+    "production": "http://myapp.com",
+    "staging": "http://myapp-stag.herokuapp.com"
+}
